@@ -1,0 +1,25 @@
+.loginform2{
+    height: 50% !important;
+    width: 30% !important;
+    border: 1px solid white;
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: rgba(43, 42, 42, 0.582);
+    border-radius:5%; 
+    padding: 40px; 
+
+}
+.loginform2:hover{
+    box-shadow: 0 5px 15px rgb(11, 255, 23);
+}
+.createsubmit{
+    width: 100%;
+}
+.createcancel{
+    margin-top: 3px;
+    width: 100% !important;
+}

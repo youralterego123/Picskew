@@ -1,0 +1,22 @@
+.navbarstyle{
+    background-color: darkslategray !important;
+   
+}
+.entirebody{
+    text-align: left;
+    font-family: 'Playfair Display', serif;
+    margin-left: 1px;
+    
+}
+.navbartextstyle{
+    color: white !important;
+}
+.tablecss:hover{
+ background-color: white;
+ 
+}
+.dropdownbutton{
+    background-color: darkslategray !important;
+    border: none !important;
+   
+}

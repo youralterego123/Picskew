@@ -1,0 +1,56 @@
+
+ .imagesize{
+     
+    height: 280px;
+ }
+ .imagetitle{
+     text-align: left;
+    font-family: 'Playfair Display', serif;
+    margin-left: 1px;
+ }
+ .cardstyle{
+     
+     border-radius: 25%;
+     background-color: rgba(43, 42, 42, 0.582) !important; 
+     color: white;
+ }
+
+ .cardstyle:hover{
+    box-shadow: 0 5px 15px rgb(223, 224, 223); 
+ }
+ body{
+     background-color: rgb(155, 155, 155) !important;
+ }
+ .navbarstyle{
+    background-color: darkslategray !important;
+    
+ }
+
+ .navbartextstyle{
+     color: white !important;
+ }
+ .entirebody{
+    text-align: left;
+    font-family: 'Playfair Display', serif;
+    margin-left: 1px;
+}
+.imagelikes{
+    margin-left: 10px;
+}
+.dropdownbutton{
+    background-color: darkslategray !important;
+    border: none !important;
+   
+   
+}
+.linkstyle{
+    text-decoration: none;
+    color: black;
+}
+.displayquotes{
+    color: white !important;
+    margin-left: 18px;
+    margin-top: 5px;
+    margin-bottom: -5px;
+    font-size: 20px;
+}

@@ -1,0 +1,60 @@
+.loginform{
+    height: 53% !important;
+    width: 30% !important;
+    border: 1px solid white;
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: rgba(43, 42, 42, 0.582);
+    border-radius:5%; 
+    padding: 40px;   
+   
+}
+.loginform1{
+    height: 72% !important;
+    width: 30% !important;
+    border: 1px solid white;
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: rgba(43, 42, 42, 0.582);
+    border-radius:5%; 
+    padding: 40px; 
+
+}
+.loginform:hover{
+    box-shadow: 0 5px 15px rgb(11, 255, 23);
+}
+.loginform1:hover{
+    box-shadow: 0 5px 15px rgb(11, 255, 23);
+}
+.inputtype{
+    background-color: rgb(255, 253, 253) !important;
+    color: white;
+}
+.formlabel{
+    color: white;
+}
+.loginbtn{
+    width: 100%;
+}
+.signupbtn{
+    margin-top: 3px;
+    width: 100% !important;
+  
+}
+.signuplog{
+    color: white !important;
+  
+    text-decoration: none !important;
+}
+.signuplog:hover{
+    text-decoration: none !important;
+    color: white;
+}

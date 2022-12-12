@@ -1,0 +1,31 @@
+
+.imagetitle{
+    text-align: left;
+   font-family: 'Playfair Display', serif;
+   margin-left: 1px;
+}
+.viewcard:hover
+    {
+        box-shadow: 0 5px 15px rgb(223, 224, 223); 
+     }
+.viewcard{
+    border: 1px solid !important;
+     background-color: rgba(43, 42, 42, 0.582) !important; 
+     color: white;
+}     
+.cardposition{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.homebtn{
+    background-color: rgba(43, 42, 42, 0.582) !important; 
+     color: white;
+     border-color:  rgba(43, 42, 42, 0.582) !important;
+}
+.homebtn:hover{
+    background-color: white !important;
+    color: black !important;
+} 
